@@ -39,10 +39,9 @@ with open("آی پی های ساخته شدت اینجاس.txt", "w", encoding="
     f.write("\n".join(out))
 
 print("Done ✔")
-
-print("""
-🔥 The configurations are ready!
-🎯 Now it's your turn to test them 😏
-💻 Get ready, the world of VLESS is waiting!
-""")
+print("Done ✔")
+print("Done ✔")
+print("🔥 The configurations are ready!")
+print("🎯 Now it's your turn to test them 😏")
+print("💻 Get ready, the world of VMESS is waiting!")
 input("Press Enter when you're ready...")
