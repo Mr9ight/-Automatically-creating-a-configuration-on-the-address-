@@ -58,10 +58,15 @@ python vless_generator.py
 2. لیست IP ها رو داخل آدرس آی پی.txt اضافه کن.
 3. اسکریپت مناسب رو اجرا کن.
 4. لینک‌های جدید آماده استفاده در آی پی های ساخته شدت اینجاس.txt است.
+
+
 🔥 پیام بعد از اجرا
+
 Done ✔
 🔥 The configurations are ready!
+
 🎯 Now it's your turn to test them 😏
+
 💻 Get ready, the world of VMESS/VLESS is waiting!
 
 
