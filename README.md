@@ -1,4 +1,7 @@
 # -Automatically-creating-a-configuration-on-the-address-
+
+Download File : https://github.com/Mr9ight/-Automatically-creating-a-configuration-on-the-address-/archive/refs/heads/main.zip
+
 "ساختن خودکار آی پی کانفیگ روی آدرس
 # 🚀 VMESS/VLESS IP Generator
 
